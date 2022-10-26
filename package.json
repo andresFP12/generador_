@@ -1,0 +1,30 @@
+{
+  "name": "Grupo Galileo",
+  "version": "1.0.0",
+  "description": "Generador de tarjeta de información",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "y",
+    "JavaScript"
+  ],
+  "author": "Jheyson Galvis <tecnojhe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "#"
+  },
+  "homepage": "#",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
